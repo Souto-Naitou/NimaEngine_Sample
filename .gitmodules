@@ -1,0 +1,3 @@
+[submodule "modules/nima_engine"]
+	path = modules/nima_engine
+	url = https://github.com/Souto-Naitou/NimaEngine.git
